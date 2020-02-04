@@ -10,6 +10,8 @@ public class SampleHello {
 			System.out.println(i);
 		}
 		
+		System.out.println("clients added");
+		
 	}
 
 }
